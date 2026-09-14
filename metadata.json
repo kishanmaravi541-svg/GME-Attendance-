@@ -1,0 +1,6 @@
+{
+  "name": "GME Attendance",
+  "description": "Simple mobile attendance app for students and teachers with GPS location verification and daily records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
